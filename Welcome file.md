@@ -17,7 +17,10 @@ sequence logos bit scores
 stochastic optimisation -  look for motifs de novo
 - Enumeration 
 - D
-- 
+- S
+not the same twice
+
+All the possible kmer diction
 
 
 
@@ -188,7 +191,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDI2NjA5NCwxNTU1NzY1NDc0LC0xMD
+eyJoaXN0b3J5IjpbMTIxMTAyODA2MSwxNTU1NzY1NDc0LC0xMD
 AzNDA2ODg4LDE4MDA3OTg3NDAsLTE5NDQzOTE3OTAsNTUwMzE1
 OTcsMTA2Njc3ODg0Ml19
 -->
