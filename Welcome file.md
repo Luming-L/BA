@@ -1,3 +1,4 @@
+
 position weighted matrix PWM
 S = −  ∑ i=1-4 pi log2pi
 sequence logos bit scores
@@ -171,6 +172,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDc5ODc0MCwtMTk0NDM5MTc5MCw1NT
-AzMTU5NywxMDY2Nzc4ODQyXX0=
+eyJoaXN0b3J5IjpbMjEyNjQ2MzkzOCwxODAwNzk4NzQwLC0xOT
+Q0MzkxNzkwLDU1MDMxNTk3LDEwNjY3Nzg4NDJdfQ==
 -->
