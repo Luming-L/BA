@@ -16,6 +16,7 @@ sequence logos bit scores
 
 stochastic optimisation -  look for motifs de novo
 - Enumeration 
+- 
 
 
 
@@ -186,7 +187,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc4Mjg1NzYsMTU1NTc2NTQ3NCwtMT
+eyJoaXN0b3J5IjpbLTE3MTM5NDU1OTUsMTU1NTc2NTQ3NCwtMT
 AwMzQwNjg4OCwxODAwNzk4NzQwLC0xOTQ0MzkxNzkwLDU1MDMx
 NTk3LDEwNjY3Nzg4NDJdfQ==
 -->
