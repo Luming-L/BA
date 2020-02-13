@@ -1,4 +1,5 @@
-similar but not identical
+sequence logo
+exon-intron boundary conserved position
 
 position weighted matrix PWM
 S = −  ∑ i=1-4 pi log2pi
@@ -173,6 +174,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM0MDY4ODgsMTgwMDc5ODc0MCwtMT
-k0NDM5MTc5MCw1NTAzMTU5NywxMDY2Nzc4ODQyXX0=
+eyJoaXN0b3J5IjpbNDIzNDM4NjMxLC0xMDAzNDA2ODg4LDE4MD
+A3OTg3NDAsLTE5NDQzOTE3OTAsNTUwMzE1OTcsMTA2Njc3ODg0
+Ml19
 -->
