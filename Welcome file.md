@@ -22,6 +22,8 @@ not the same twice
 
 All the possible kmer diction
 
+new PWM better 
+
 
 
 
@@ -191,7 +193,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTAyODA2MSwxNTU1NzY1NDc0LC0xMD
-AzNDA2ODg4LDE4MDA3OTg3NDAsLTE5NDQzOTE3OTAsNTUwMzE1
-OTcsMTA2Njc3ODg0Ml19
+eyJoaXN0b3J5IjpbLTE4ODU1OTg5NzcsMTIxMTAyODA2MSwxNT
+U1NzY1NDc0LC0xMDAzNDA2ODg4LDE4MDA3OTg3NDAsLTE5NDQz
+OTE3OTAsNTUwMzE1OTcsMTA2Njc3ODg0Ml19
 -->
