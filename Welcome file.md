@@ -24,6 +24,8 @@ All the possible kmer diction
 
 new PWM better 
 
+not get blocked in the local but not the best solution
+
 
 
 
@@ -193,7 +195,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1OTg5NzcsMTIxMTAyODA2MSwxNT
-U1NzY1NDc0LC0xMDAzNDA2ODg4LDE4MDA3OTg3NDAsLTE5NDQz
-OTE3OTAsNTUwMzE1OTcsMTA2Njc3ODg0Ml19
+eyJoaXN0b3J5IjpbLTQwNjEzMjA4NywtMTg4NTU5ODk3NywxMj
+ExMDI4MDYxLDE1NTU3NjU0NzQsLTEwMDM0MDY4ODgsMTgwMDc5
+ODc0MCwtMTk0NDM5MTc5MCw1NTAzMTU5NywxMDY2Nzc4ODQyXX
+0=
 -->
