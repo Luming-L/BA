@@ -26,6 +26,8 @@ new PWM better
 
 not get blocked in the local but not the best solution
 
+sampling subset of sequence to find the PWM so different result every time
+
 
 
 
@@ -195,7 +197,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjEzMjA4NywtMTg4NTU5ODk3NywxMj
+eyJoaXN0b3J5IjpbLTMyNTg2NTIxOSwtMTg4NTU5ODk3NywxMj
 ExMDI4MDYxLDE1NTU3NjU0NzQsLTEwMDM0MDY4ODgsMTgwMDc5
 ODc0MCwtMTk0NDM5MTc5MCw1NTAzMTU5NywxMDY2Nzc4ODQyXX
 0=
