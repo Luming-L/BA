@@ -1,4 +1,5 @@
 position weighted matrix PWM
+S = −  ∑ i=1-4 pi log2pi
 
 # Welcome to StackEdit!
 
@@ -144,5 +145,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njc3ODg0Ml19
+eyJoaXN0b3J5IjpbNTUwMzE1OTcsMTA2Njc3ODg0Ml19
 -->
