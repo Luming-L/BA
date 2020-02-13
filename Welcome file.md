@@ -4,6 +4,8 @@ how much you can predict the position
 position weighted matrix PWM
 S = −  ∑ i=1-4 pi logbpi
 how to calculate and how to interprete that
+
+
 sequence logos bit scores
 
 
@@ -175,7 +177,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzQyMjE0LC0xMDAzNDA2ODg4LDE4MD
-A3OTg3NDAsLTE5NDQzOTE3OTAsNTUwMzE1OTcsMTA2Njc3ODg0
-Ml19
+eyJoaXN0b3J5IjpbMTU1NTc2NTQ3NCwtMTAwMzQwNjg4OCwxOD
+AwNzk4NzQwLC0xOTQ0MzkxNzkwLDU1MDMxNTk3LDEwNjY3Nzg4
+NDJdfQ==
 -->
