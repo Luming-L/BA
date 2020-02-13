@@ -1,3 +1,4 @@
+similar but not identical
 
 position weighted matrix PWM
 S = −  ∑ i=1-4 pi log2pi
@@ -172,6 +173,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjQ2MzkzOCwxODAwNzk4NzQwLC0xOT
-Q0MzkxNzkwLDU1MDMxNTk3LDEwNjY3Nzg4NDJdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM0MDY4ODgsMTgwMDc5ODc0MCwtMT
+k0NDM5MTc5MCw1NTAzMTU5NywxMDY2Nzc4ODQyXX0=
 -->
