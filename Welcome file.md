@@ -28,6 +28,12 @@ not get blocked in the local but not the best solution
 
 sampling subset of sequence to find the PWM so different result every time
 
+implementation:  dict approach
+Chip seq data
+background has been mimicked
+
+Biopython to do the parsing carefully checked
+
 
 
 
@@ -197,8 +203,8 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTg2NTIxOSwtMTg4NTU5ODk3NywxMj
-ExMDI4MDYxLDE1NTU3NjU0NzQsLTEwMDM0MDY4ODgsMTgwMDc5
-ODc0MCwtMTk0NDM5MTc5MCw1NTAzMTU5NywxMDY2Nzc4ODQyXX
-0=
+eyJoaXN0b3J5IjpbMjAzNzkxMzEyMiwtMzI1ODY1MjE5LC0xOD
+g1NTk4OTc3LDEyMTEwMjgwNjEsMTU1NTc2NTQ3NCwtMTAwMzQw
+Njg4OCwxODAwNzk4NzQwLC0xOTQ0MzkxNzkwLDU1MDMxNTk3LD
+EwNjY3Nzg4NDJdfQ==
 -->
